@@ -7,8 +7,8 @@ from requests_oauthlib import OAuth2Session
 
 app = Flask(__name__) 
 
-client_id = 'fe6b879c81e740118b5ed6cd7c7dbfe6'
-client_secret = '71a8eebfad164672917ddf6a2323709c'
+client_id = '' #coloque aqui o seu id spotify
+client_secret = '' #coloque aqui o seu secret spotify
 redirect_uri= 'https://localhost:5000/callback'
 spotify = OAuth2Session(client_id, redirect_uri=redirect_uri)
 
