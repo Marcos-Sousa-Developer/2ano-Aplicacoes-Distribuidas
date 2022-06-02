@@ -1,4 +1,4 @@
-# Projetos de 2ºano, Aplicações Distribuidas
+# Projetos de 2ºano: "SOCKETS
 Projeto de 2ºano, do curso de Tecnologias de Informação 
 
 Cadeira: Aplicações Distribuidas
