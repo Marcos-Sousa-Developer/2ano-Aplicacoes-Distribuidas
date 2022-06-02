@@ -1,4 +1,4 @@
-# Projetos de 2ºano: "SOCKETS
+# Projetos de 2ºano: "Gestor de bloqueios com SOCKETS" & 
 Projeto de 2ºano, do curso de Tecnologias de Informação 
 
 Cadeira: Aplicações Distribuidas
