@@ -1,4 +1,5 @@
-# Projetos de 2ºano: "Gestor de bloqueios com SOCKETS" & 
+# Projetos de 2ºano
+## Gestor de bloqueios com SOCKETS & API REST SPOTIFY
 Projeto de 2ºano, do curso de Tecnologias de Informação 
 
 Cadeira: Aplicações Distribuidas
